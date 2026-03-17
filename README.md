@@ -1,3 +1,4 @@
+# Reg no : 212224040148
 # Correlation and regression for data analysis
 # Aim : 
 
@@ -24,6 +25,8 @@ If y represents the dependent variable and x the independent variable, this rela
 ![image](https://github.com/ramjan1729/Correlation_Regression/assets/103921593/9eb48cbf-8ca3-4cd9-8440-ff45fd98333e)
 
 
-# Result
+# Output :
+<img width="760" height="217" alt="image" src="https://github.com/user-attachments/assets/39be1675-c184-40b0-943c-df44a2f596a0" />
 
-# Output 
+# Result :
+Thus the Correlation and regression for data analysis verified successfully.
